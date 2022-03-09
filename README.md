@@ -1,6 +1,8 @@
 # **Hello World**
 ## Welcome to ThemeTest
 
+![image](/assets/3587cb91551117.5e346fba6b7a5.jpg)
+
 You can use the [editor on GitHub](https://github.com/jeff10842/Theme-Test/edit/Master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
